@@ -1,0 +1,12 @@
+{
+  "name": "capcorp",
+  "version": "1.0.0",
+  "description": "Bulma testing grounds",
+  "main": "index.html",
+  "author": "Bshally",
+  "license": "MIT",
+  "dependencies": {
+    "blendid": "^4.0.0-rc.1",
+    "bulma": "^0.4.0"
+  }
+}
